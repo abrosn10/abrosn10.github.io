@@ -4,10 +4,23 @@
   height: 69px;
   border-bottom: 1px solid black;
   display: flex;
-  align items: center;
+  align-items: center;
   justify-content: space-between;
   position: fixed;
   margin-top: -10px;
   padding: 20px;
   z-index: 5;
 }
+
+.cookie-byline{
+  text-align: center;
+  color: aquamarine;
+}
+
+.navbar a{
+  display: inline-block;
+  text-align: center;
+  color: aquamarine;
+}
+  
+  
